@@ -13,6 +13,9 @@ Add two new json files:
 1. [docs/json/right_arrow_to_screenshot.json](https://github.com/backslash112/KE-complex_modifications/commit/597666412ba675ebaad71b45ba4b3cdd5e3fe7f3)
 2. [docs/json/left_command_twice.json](https://github.com/backslash112/KE-complex_modifications/commit/0623fa45802110928ca938dcbda9847c1a5d5795)
 
+## Personal settings:
+[Screen Shots](files/)
+
 ## Update docs
 
 Run make in terminal.
