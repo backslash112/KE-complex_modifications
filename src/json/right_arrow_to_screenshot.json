@@ -1,0 +1,28 @@
+{
+  "title": "right-arrow",
+  "rules": [
+    {
+      "description": "Full Screenshot by pressing right arrow",
+      "manipulators": [
+        {
+          "type": "basic",
+
+          "from": {
+            "key_code": "right_arrow",
+            "modifiers": {
+              "optional": [
+                "any"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "3",
+              "modifiers": ["left_shift", "left_command"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
